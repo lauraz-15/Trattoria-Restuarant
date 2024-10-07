@@ -15,7 +15,7 @@ body {
   color: #252525;
   font-weight: 400;
   background-color: #f7f2e9;
-  border-bottom: 1.6rem solid #edc84b;
+  border-bottom: 1.6rem solid red;
   min-height: 100vh;
   padding: 3.2rem;
   padding-bottom: 6rem;
@@ -166,10 +166,30 @@ body {
   background-color: #e9bb24;
 }
 
-/*
-SPACING SYSTEM (px)
-2 / 4 / 8 / 12 / 16 / 24 / 32 / 40 / 48 / 64 / 80 / 96 / 128
-
-FONT SIZE SYSTEM (px)
-10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 /52 / 62 / 74 / 86 / 98
-*/
+@media (max-width: 768px) {
+  .dishes {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .dish {
+    gap: 2rem;
+  }
+  .dish img {
+    width: 95px;
+  }
+  .dish h3 {
+    font-size: 1.7rem;
+  }
+  .dish div {
+    margin-top: -0.9rem;
+  }
+  .header h1 {
+    font-size: 4.1rem;
+  }
+  .menu > p {
+    font-size: 1.5rem;
+    text-align: left;
+    line-height: 1.6;
+    width: 98%;
+  }
+}
