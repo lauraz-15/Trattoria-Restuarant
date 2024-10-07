@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Trattoria-Restuarant/static/css/main.01826841.css",
+    "main.js": "/Trattoria-Restuarant/static/js/main.e1200b95.js",
+    "static/js/453.fe9f8a99.chunk.js": "/Trattoria-Restuarant/static/js/453.fe9f8a99.chunk.js",
+    "static/media/logo.svg": "/Trattoria-Restuarant/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Trattoria-Restuarant/index.html",
+    "main.01826841.css.map": "/Trattoria-Restuarant/static/css/main.01826841.css.map",
+    "main.e1200b95.js.map": "/Trattoria-Restuarant/static/js/main.e1200b95.js.map",
+    "453.fe9f8a99.chunk.js.map": "/Trattoria-Restuarant/static/js/453.fe9f8a99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01826841.css",
+    "static/js/main.e1200b95.js"
+  ]
+}
